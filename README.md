@@ -53,6 +53,8 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nze25&show_icons=true&locale=en&layout=compact" alt="nze25" />
 
+---
+
 ### Courses
 
 - [Mine Academy](https://mineacademy.org)
