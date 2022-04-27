@@ -51,7 +51,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-2f1a47?style=flat&logo=firebase)&nbsp;
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-2f1a47?style=flat&logo=microsoftazure)&nbsp;
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nze25&show_icons=true&locale=en&langs_count=10" alt="nze25" align="right" width="300px" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nze25&show_icons=true&locale=en&langs_count=10" align="right" alt="nze25" width="300px" />
 
 ## Courses
 
