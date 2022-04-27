@@ -11,7 +11,7 @@
 
 ---
 
-# Languages and Tools
+## Languages and Tools
 
 ![Javascript](https://img.shields.io/badge/-Javascript-2f1a47?style=flat&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-2f1a47?style=flat&logo=php)&nbsp;
@@ -55,7 +55,7 @@
 
 ---
 
-# Courses
+## Courses
 
 - 🌐 [Mine Academy](https://mineacademy.org) - Minecraft Plugin and Java
 - 🌐 [Niomic](https://niomic.id/) - Web and Framework
