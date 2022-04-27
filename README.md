@@ -1,13 +1,13 @@
 ### Hi 👋, I'm Naufal, Known as `Nze` Online
 # *A Student*
 
-🌐 [Website](nze.estrium.net)
-✉ [E-Mail](nze.estrium.net)
+🌐 [Website](https://nze.estrium.net)
+✉ [E-Mail](https://nze.estrium.net)
 
 - 🌱 I’m currently learning **Bug Bounty**
-- 👨‍💻 All of my portofolio are available at [nze.estrium.net](nze.estrium.net)
+- 👨‍💻 All of my portofolio are available at [nze.estrium.net](https://nze.estrium.net)
 
-[![Github Stats]]("https://github-readme-stats.vercel.app/api?username=nze25&show_icons=true&locale=en")
+[![Github Stats]("https://github-readme-stats.vercel.app/api?username=nze25&show_icons=true&locale=en")](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
