@@ -53,4 +53,4 @@
 
 ![Mine Academy](https://mineacademy.org)
 ![Niomic](https://niomic.id/)
-![HackTheBox Academy](https://img.shields.io/badge/-HackTheBox-2f1a47?style=flat&logo=hackthebox)&nbsp;(https://academy.hackthebox.com/)
+![HackTheBox Academy](https://academy.hackthebox.com/)
