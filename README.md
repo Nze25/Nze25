@@ -57,6 +57,6 @@
 
 # Courses
 
-- [Mine Academy](https://mineacademy.org) - Minecraft Plugin and Java
-- [Niomic](https://niomic.id/) - Web and Framework
-- [HackTheBox Academy](https://academy.hackthebox.com/) - Bug Bounty and Hacking
+- 🌐 [Mine Academy](https://mineacademy.org) - Minecraft Plugin and Java
+- 🌐 [Niomic](https://niomic.id/) - Web and Framework
+- 🌐 [HackTheBox Academy](https://academy.hackthebox.com/) - Bug Bounty and Hacking
