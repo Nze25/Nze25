@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning **Bug Bounty**
 - 👨‍💻 All of my portofolio are available at [nze.estrium.net](https://nze.estrium.net)
 
-[![Github Stats]("https://github-readme-stats.vercel.app/api?username=nze25&show_icons=true&locale=en")](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=nze25&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -55,6 +55,6 @@
 
 ### Courses
 
-[Mine Academy](https://mineacademy.org)
-[Niomic](https://niomic.id/)
-[HackTheBox Academy](https://academy.hackthebox.com/)
+- [Mine Academy](https://mineacademy.org)
+- [Niomic](https://niomic.id/)
+- [HackTheBox Academy](https://academy.hackthebox.com/)
