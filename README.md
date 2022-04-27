@@ -1,17 +1,17 @@
-### Hi 👋, I'm Naufal, Known as `Nze` Online
-# *A Student*
+# Hi 👋, I'm Naufal, Known as `Nze` Online
+### *A Student*
 
 🌐 [Website](https://nze.estrium.net)
 ✉ [E-Mail](https://nze.estrium.net)
 
 - 🌱 I’m currently learning **Bug Bounty**
-- 👨‍💻 All of my portofolio are available at [nze.estrium.net](https://nze.estrium.net)
+- 👨‍💻 All of my portofolio are available at [here](https://nze.estrium.net)
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=nze25&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-### Languages and Tools
+# Languages and Tools
 
 ![Javascript](https://img.shields.io/badge/-Javascript-2f1a47?style=flat&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-2f1a47?style=flat&logo=php)&nbsp;
@@ -55,7 +55,7 @@
 
 ---
 
-## Courses
+# Courses
 
 - [Mine Academy](https://mineacademy.org)
 - [Niomic](https://niomic.id/)
