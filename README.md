@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Naufal, Known as `Nze` Online</h1>
+###Hi 👋, I'm Naufal, Known as `Nze` Online
 <h3 align="center">A Student</h3>
 
 - 🌱 I’m currently learning **Bug Bounty**
@@ -51,6 +51,6 @@
 
 <h3 align="left">Courses</h3>
 
-[Mine Academy](https://mineacademy.org)
-[Niomic](https://niomic.id/)
-[HackTheBox Academy](https://academy.hackthebox.com/)
+![Mine Academy](https://mineacademy.org)
+![Niomic](https://niomic.id/)
+![HackTheBox Academy](https://img.shields.io/badge/-HackTheBox-2f1a47?style=flat&logo=hackthebox)&nbsp;(https://academy.hackthebox.com/)
