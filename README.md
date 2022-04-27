@@ -1,8 +1,10 @@
-###Hi 👋, I'm Naufal, Known as `Nze` Online
+### Hi 👋, I'm Naufal, Known as `Nze` Online
 <h3 align="center">A Student</h3>
 
-- 🌱 I’m currently learning **Bug Bounty**
+🌐 [Website](https://edqe.me)
+✉ [E-Mail] Soon
 
+- 🌱 I’m currently learning **Bug Bounty**
 - 👨‍💻 All of my portofolio are available at [nze.estrium.net](nze.estrium.net)
 
 <h3 align="left">Languages and Tools:</h3>
@@ -51,6 +53,6 @@
 
 <h3 align="left">Courses</h3>
 
-![Mine Academy](https://mineacademy.org)
-![Niomic](https://niomic.id/)
-![HackTheBox Academy](https://academy.hackthebox.com/)
+[Mine Academy](https://mineacademy.org)
+[Niomic](https://niomic.id/)
+[HackTheBox Academy](https://academy.hackthebox.com/)
