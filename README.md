@@ -14,6 +14,7 @@
 ![Javascript](https://img.shields.io/badge/-Javascript-2f1a47?style=flat&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-2f1a47?style=flat&logo=php)&nbsp;
 
+
 ![Node.JS](https://img.shields.io/badge/-Node.JS-2f1a47?style=flat&logo=node.js)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-2f1a47?style=flat&logo=html5)&nbsp;  
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-2f1a47?style=flat&logo=bootstrap)&nbsp;
@@ -26,6 +27,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-2f1a47?style=flat&logo=intellijidea)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-2f1a47?style=flat&logo=adobephotoshop)&nbsp;  
 ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-2f1a47?style=flat&logo=adobepremierepro)&nbsp;
+![After Effects](https://img.shields.io/badge/-Adobe%After%Effects-2f1a47?style=flat&logo=adobeaftereffects)&nbsp;
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nze25&show_icons=true&locale=en&layout=compact" alt="nze25" /></p>
 
