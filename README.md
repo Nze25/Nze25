@@ -1,13 +1,17 @@
 ### Hi 👋, I'm Naufal, Known as `Nze` Online
-<h3 align="center">A Student</h3>
+# *A Student*
 
-🌐 [Website](https://edqe.me)
-✉ [E-Mail] Soon
+🌐 [Website](nze.estrium.net)
+✉ [E-Mail](nze.estrium.net)
 
 - 🌱 I’m currently learning **Bug Bounty**
 - 👨‍💻 All of my portofolio are available at [nze.estrium.net](nze.estrium.net)
 
-<h3 align="left">Languages and Tools:</h3>
+[![Github Stats]]("https://github-readme-stats.vercel.app/api?username=nze25&show_icons=true&locale=en")
+
+---
+
+### Languages and Tools
 
 ![Javascript](https://img.shields.io/badge/-Javascript-2f1a47?style=flat&logo=javascript)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-2f1a47?style=flat&logo=php)&nbsp;
@@ -47,11 +51,9 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-2f1a47?style=flat&logo=firebase)&nbsp;
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-2f1a47?style=flat&logo=microsoftazure)&nbsp;
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nze25&show_icons=true&locale=en&layout=compact" alt="nze25" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nze25&show_icons=true&locale=en&layout=compact" alt="nze25" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nze25&show_icons=true&locale=en" alt="nze25" /></p>
-
-<h3 align="left">Courses</h3>
+### Courses
 
 [Mine Academy](https://mineacademy.org)
 [Niomic](https://niomic.id/)
