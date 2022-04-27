@@ -55,7 +55,7 @@
 
 ---
 
-### Courses
+## Courses
 
 - [Mine Academy](https://mineacademy.org)
 - [Niomic](https://niomic.id/)
