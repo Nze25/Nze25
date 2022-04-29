@@ -8,6 +8,7 @@
 - 👨‍💻 All of my portofolio are available at [here](https://nze.estrium.net)
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=nze25&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nze25&show_icons=true&locale=en&langs_count=10" align="right" alt="nze25" width="300px" />
 
 ---
 
@@ -50,8 +51,6 @@
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-blue?style=flat&logo=googlecloud)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-blue?style=flat&logo=firebase)&nbsp;
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-blue?style=flat&logo=microsoftazure)&nbsp;
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nze25&show_icons=true&locale=en&langs_count=10" align="right" alt="nze25" width="300px" />
 
 ## Courses
 
