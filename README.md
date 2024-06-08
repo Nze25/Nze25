@@ -7,8 +7,8 @@
 - 🌱 I’m currently learning **Bug Bounty**
 - 👨‍💻 All of my portofolio are available at [here](https://nze.estrium.net)
 
-[![Github Stats](https://github-readme-stats-ex2p.vercel.app/api?username=nze25&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats-ex2p.vercel.app/api/top-langs?username=nze25&show_icons=true&locale=en&langs_count=10" align="right" alt="nze25" width="300px" />
+[![Github Stats](https://github-readme-stats-beta-snowy-74.vercel.app/api?username=nze25&show_icons=true&locale=en)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats-beta-snowy-74.vercel.app/api/top-langs?username=nze25&show_icons=true&locale=en&langs_count=10" align="right" alt="nze25" width="300px" />
 
 ---
 
