@@ -1,4 +1,4 @@
-# Hi 👋, I'm Naufal, Known as `Nze` Online
+# Hi, I'm Nze
 ### *A Student*
 
 🌐 [Website](https://nze.estrium.net)
