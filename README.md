@@ -5,7 +5,7 @@
 ✉ [E-Mail](https://nze.estrium.net)
 
 [![Github Stats](https://github-readme-stats-five-pied-54.vercel.app/api?username=nze25&show_icons=true&theme=onedark&locale=en&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER)](https://github.com/anuraghazra/github-readme-stats)
-<img src="https://github-readme-stats-five-pied-54.vercel.app/api/top-langs?username=nze25&show_icons=true&locale=en&theme=onedark&langs_count=10&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER" align="right" alt="nze25" width="300px" />
+<img src="https://github-readme-stats-five-pied-54.vercel.app/api/top-langs?username=nze25&show_icons=true&locale=en&langs_count=10&theme=onedark&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER" align="right" alt="nze25" width="300px" />
 
 ---
 
