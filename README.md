@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nze 👋</h1>
-<h3 align="center">A Student, Developer, AI & Crypto Enthusiast</h3>
+<h3 align="center">A Student, Developer</h3>
 
 <p align="center">
   <a href="https://github.com/nze25">
