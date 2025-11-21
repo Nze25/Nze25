@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nze 👋</h1>
-<h3 align="center">A Student, Developer</h3>
+<h3 align="center">Student • Developer</h3>
 
 <p align="center">
   <a href="https://github.com/nze25">
@@ -15,13 +15,21 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nze25&theme=onedark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nze25&theme=onedark&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+</p>
+
 <img src="https://github-readme-stats-five-pied-54.vercel.app/api/top-langs?username=nze25&show_icons=true&locale=en&langs_count=10&theme=onedark&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER" align="right" alt="Top Languages" width="300px" />
 
 ## 👨‍💻 About Me
 
 - 🎓 A student exploring software engineering, **AI**, security, and web technologies  
 - 🤖 Building with **LLMs**, **RAG**, LangChain, vector DBs & knowledge graphs  
-- 💡 Interested in full-stack, **mobile (Flutter, React Native)**, Web3 & cloud infrastructure  
+- 📱 Interested in full-stack, **mobile (Flutter, React Native)**, Web3 & cloud infrastructure  
 - 🪙 Passionate about **crypto**, smart contracts & blockchain ecosystems  
 - 🔐 Curious about hacking & security (HackTheBox, CTFs, bug bounty)  
 - 🎮 Also into Minecraft plugin development & Java ecosystems  
@@ -68,19 +76,63 @@
 
 ---
 
-## 🤖 AI, ML & Data
+## 🤖 AI, ML, Data & Knowledge Graphs
+
+**Core AI / ML**
 
 ![OpenAI](https://img.shields.io/badge/-OpenAI-blue?style=flat&logo=openai)&nbsp;
-![LangChain](https://img.shields.io/badge/-LangChain-blue?style=flat)&nbsp;
-![Qdrant](https://img.shields.io/badge/-Qdrant-blue?style=flat&logo=qdrant)&nbsp;
-![Neo4j](https://img.shields.io/badge/-Neo4j-blue?style=flat&logo=neo4j)&nbsp;
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-blue?style=flat&logo=huggingface)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-blue?style=flat&logo=tensorflow)&nbsp;
 ![PyTorch](https://img.shields.io/badge/-PyTorch-blue?style=flat&logo=pytorch)&nbsp;
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-blue?style=flat&logo=huggingface)&nbsp;
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-blue?style=flat&logo=scikitlearn)&nbsp;
+![Keras](https://img.shields.io/badge/-Keras-blue?style=flat&logo=keras)&nbsp;
 
-- Building **RAG** systems with LangChain + Qdrant  
-- Playing with **LLM agents**, tools & embeddings  
-- Exploring **knowledge graphs** using Neo4j  
+**LLM Orchestration & RAG**
+
+![LangChain](https://img.shields.io/badge/-LangChain-blue?style=flat)&nbsp;
+![LangGraph](https://img.shields.io/badge/-LangGraph-blue?style=flat)&nbsp;
+![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-blue?style=flat)&nbsp;
+
+**Vector Databases**
+
+![Qdrant](https://img.shields.io/badge/-Qdrant-blue?style=flat&logo=qdrant)&nbsp;
+![Pinecone](https://img.shields.io/badge/-Pinecone-blue?style=flat)&nbsp;
+![Weaviate](https://img.shields.io/badge/-Weaviate-blue?style=flat)&nbsp;
+![Milvus](https://img.shields.io/badge/-Milvus-blue?style=flat)&nbsp;
+
+**Graphs & Reasoning**
+
+![Neo4j](https://img.shields.io/badge/-Neo4j-blue?style=flat&logo=neo4j)&nbsp;
+
+**Some AI things I like to build:**
+
+- 💬 Chatbots for docs, APIs, and dev tools  
+- 📄 RAG systems for searching PDFs, notes, and codebases  
+- 🧠 AI agents that call tools / APIs (crypto, devops, automation)  
+- 🔍 Semantic search over code, logs, or on-chain data  
+
+---
+
+## 📈 Analytics, Monitoring & Tracking
+
+**Product & User Tracking**
+
+![Google Analytics](https://img.shields.io/badge/-Google%20Analytics-blue?style=flat&logo=googleanalytics)&nbsp;
+![PostHog](https://img.shields.io/badge/-PostHog-blue?style=flat)&nbsp;
+![Mixpanel](https://img.shields.io/badge/-Mixpanel-blue?style=flat&logo=mixpanel)&nbsp;
+
+**Logging, Metrics & Monitoring**
+
+![Sentry](https://img.shields.io/badge/-Sentry-blue?style=flat&logo=sentry)&nbsp;
+![Grafana](https://img.shields.io/badge/-Grafana-blue?style=flat&logo=grafana)&nbsp;
+![Prometheus](https://img.shields.io/badge/-Prometheus-blue?style=flat&logo=prometheus)&nbsp;
+![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-blue?style=flat)&nbsp;
+
+**GitHub Activity Tracking**
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nze25&theme=github-compact" alt="Contribution Graph" />
+</p>
 
 ---
 
@@ -121,7 +173,7 @@
 
 - Experimenting with **dApps** and Web3 authentication  
 - Exploring **on-chain data**, wallets & DeFi protocols  
-- Connecting AI + Web3 ideas (agents, automation, tools)  
+- Connecting **AI + Web3** (agents, automation, on-chain tools)  
 
 ---
 
@@ -136,7 +188,8 @@
 ## 🚀 What I’m Focusing On
 
 - Building projects with **Python (FastAPI, Django)**, **Next.js**, **Flutter** & **React Native**  
-- Exploring **AI (LLMs, RAG, agents)** with LangChain, Qdrant & Neo4j  
+- Exploring **AI (LLMs, RAG, LangChain, agents)** with Qdrant & Neo4j  
+- Tracking usage & performance with **product analytics** and **observability tools**  
 - Learning more about **crypto**, smart contracts & real-world Web3 use cases  
 - Leveling up in **security**, **bug bounties**, and **CTFs**  
 
