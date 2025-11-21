@@ -52,11 +52,6 @@
 ![Solana](https://img.shields.io/badge/solana-%239945FF.svg?style=for-the-badge&logo=solana&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white&style=for-the-badge)
 ![Viem](https://img.shields.io/badge/Viem-000000?style=for-the-badge&logo=viem&logoColor=white)
-<!-- Base (Ethereum L2) -->
-![Base](https://img.shields.io/badge/Base-1652F0?style=for-the-badge)
-
-<!-- Ink -->
-![Ink](https://img.shields.io/badge/Ink-111827?style=for-the-badge)
 
 ## Courses
 
