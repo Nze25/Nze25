@@ -46,6 +46,13 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-blue?style=flat&logo=firebase)&nbsp;
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-blue?style=flat&logo=microsoftazure)&nbsp;
 
+<!-- Web3 / Next.js stack -->
+
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Solana](https://img.shields.io/badge/solana-%239945FF.svg?style=for-the-badge&logo=solana&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white&style=for-the-badge)
+![Viem](https://img.shields.io/badge/Viem-000000?style=for-the-badge&logo=viem&logoColor=white)
+
 ## Courses
 
 - 🌐 [Mine Academy](https://mineacademy.org) - Minecraft Plugin and Java
