@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nze 👋</h1>
-<h3 align="center">A Student, Developer & Lifelong Learner</h3>
+<h3 align="center">A Student, Developer, AI & Crypto Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/nze25">
@@ -19,9 +19,10 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 A student exploring software engineering, security, AI and web technologies  
-- 💡 Interested in full-stack development, Web3, cloud infrastructure & applied AI  
-- 🧪 Enjoys experimenting with new tools, stacks, vector DBs and knowledge graphs  
+- 🎓 A student exploring software engineering, **AI**, security, and web technologies  
+- 🤖 Building with **LLMs**, **RAG**, LangChain, vector DBs & knowledge graphs  
+- 💡 Interested in full-stack, **mobile (Flutter, React Native)**, Web3 & cloud infrastructure  
+- 🪙 Passionate about **crypto**, smart contracts & blockchain ecosystems  
 - 🔐 Curious about hacking & security (HackTheBox, CTFs, bug bounty)  
 - 🎮 Also into Minecraft plugin development & Java ecosystems  
 
@@ -40,7 +41,7 @@
 
 ---
 
-## 🌐 Web & App Development
+## 🌐 Web, Mobile & App Development
 
 **Frontend**
 
@@ -50,7 +51,11 @@
 ![Vue.JS](https://img.shields.io/badge/-Vue.js-blue?style=flat&logo=vuedotjs)&nbsp;
 ![Next.JS](https://img.shields.io/badge/-Next.js-blue?style=flat&logo=nextdotjs)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-blue?style=flat&logo=angular)&nbsp;
+
+**Mobile**
+
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-blue?style=flat&logo=react)&nbsp;
 
 **Backend & APIs**
 
@@ -63,11 +68,19 @@
 
 ---
 
-## 🤖 AI, Data & Knowledge Graph
+## 🤖 AI, ML & Data
 
+![OpenAI](https://img.shields.io/badge/-OpenAI-blue?style=flat&logo=openai)&nbsp;
 ![LangChain](https://img.shields.io/badge/-LangChain-blue?style=flat)&nbsp;
 ![Qdrant](https://img.shields.io/badge/-Qdrant-blue?style=flat&logo=qdrant)&nbsp;
 ![Neo4j](https://img.shields.io/badge/-Neo4j-blue?style=flat&logo=neo4j)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-blue?style=flat&logo=tensorflow)&nbsp;
+![PyTorch](https://img.shields.io/badge/-PyTorch-blue?style=flat&logo=pytorch)&nbsp;
+![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-blue?style=flat&logo=huggingface)&nbsp;
+
+- Building **RAG** systems with LangChain + Qdrant  
+- Playing with **LLM agents**, tools & embeddings  
+- Exploring **knowledge graphs** using Neo4j  
 
 ---
 
@@ -99,12 +112,16 @@
 
 ---
 
-## 🔗 Web3 & Next.js Stack
+## 🪙 Crypto & Web3
 
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Solana](https://img.shields.io/badge/solana-%239945FF.svg?style=for-the-badge&logo=solana&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 ![Viem](https://img.shields.io/badge/Viem-000000?style=for-the-badge&logo=viem&logoColor=white)
+
+- Experimenting with **dApps** and Web3 authentication  
+- Exploring **on-chain data**, wallets & DeFi protocols  
+- Connecting AI + Web3 ideas (agents, automation, tools)  
 
 ---
 
@@ -118,8 +135,9 @@
 
 ## 🚀 What I’m Focusing On
 
-- Building projects with **Python (FastAPI, Django)** and **Next.js**  
-- Exploring **AI**, **LangChain**, **vector databases (Qdrant)** & **knowledge graphs (Neo4j)**  
+- Building projects with **Python (FastAPI, Django)**, **Next.js**, **Flutter** & **React Native**  
+- Exploring **AI (LLMs, RAG, agents)** with LangChain, Qdrant & Neo4j  
+- Learning more about **crypto**, smart contracts & real-world Web3 use cases  
 - Leveling up in **security**, **bug bounties**, and **CTFs**  
 
 ---
