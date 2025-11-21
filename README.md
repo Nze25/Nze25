@@ -19,10 +19,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nze25&theme=onedark" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nze25&theme=onedark&margin-w=8&margin-h=8" alt="GitHub Trophies" />
-</p>
-
 <img src="https://github-readme-stats-five-pied-54.vercel.app/api/top-langs?username=nze25&show_icons=true&locale=en&langs_count=10&theme=onedark&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER" align="right" alt="Top Languages" width="300px" />
 
 ## 👨‍💻 About Me
@@ -100,7 +96,7 @@
 ![Weaviate](https://img.shields.io/badge/-Weaviate-blue?style=flat)&nbsp;
 ![Milvus](https://img.shields.io/badge/-Milvus-blue?style=flat)&nbsp;
 
-**Graphs & Reasoning**
+**Graphs**
 
 ![Neo4j](https://img.shields.io/badge/-Neo4j-blue?style=flat&logo=neo4j)&nbsp;
 
