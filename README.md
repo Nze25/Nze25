@@ -17,6 +17,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nze25&theme=onedark" alt="GitHub Streak" />
+  [![committers.top badge](https://user-badge.committers.top/REGION/USERNAME.svg)](https://user-badge.committers.top/INDONESIA/Nze25)
 </p>
 
 <img src="https://github-readme-stats-five-pied-54.vercel.app/api/top-langs?username=nze25&show_icons=true&locale=en&langs_count=10&theme=onedark&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER" align="right" alt="Top Languages" width="300px" />
