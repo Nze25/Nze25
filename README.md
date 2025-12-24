@@ -7,7 +7,7 @@
 
 ---
 
-### ⚡ What I'm actually working on
+### What I'm actually working on
 - **Voice AI Agents:** Building RAG pipelines that can actually handle phone calls (using RetellAI & LangChain).
 - **Web3:** Messing around with smart contract events on Ethereum & Solana (Next.js + Wagmi).
 - **Security:** Grinding **HackTheBox** ranks and learning Burp Suite.
@@ -15,7 +15,7 @@
 
 ---
 
-### 🛠️ The Stack
+### The Stack
 **Languages:** `TypeScript` `Python` `Java` `Go` `PHP` `Dart`
 <br>
 **AI/Data:** `OpenAI` `LangChain` `Qdrant` `Neo4j` `TensorFlow`
