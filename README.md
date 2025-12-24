@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nze.</h1>
 
 <p align="center">
-  <b>Student • Dev • Security Researcher</b><br>
+  <b>Student • Dev</b><br>
   Building agents, breaking security, and writing Java for Minecraft.
 </p>
 
