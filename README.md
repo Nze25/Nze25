@@ -26,10 +26,4 @@
 
 ---
 
-### 📊 Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nze25&show_icons=true&theme=transparent&hide_border=true&title_color=fff&text_color=aaa&icon_color=79ff97" height="150" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nze25&theme=transparent&hide_border=true&currStreakLabel=000000" height="150" alt="streak graph" />
-</p>
-
 [<img src="https://img.shields.io/badge/Check_my_Repos-black?style=for-the-badge&logo=github" />](https://github.com/nze25?tab=repositories)
