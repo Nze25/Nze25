@@ -8,7 +8,7 @@
 ---
 
 ### What I'm actually working on
-- **Voice AI Agents:** Building RAG pipelines that can actually handle phone calls (using ElevenLabs & LangChain).
+- **AI:** Exploring AI harness and agents.
 - **Web3:** Messing around with smart contract events on Ethereum & Solana (Next.js + Wagmi).
 - **Security:** Grinding **HackTheBox** ranks.
 - **Minecraft:** Writing custom Spigot/Paper plugins in Java.
